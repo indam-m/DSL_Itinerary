@@ -1,0 +1,21 @@
+itinerary
+	title
+		AMCKL - Mono Malaysia plus Hello Kitty 05H
+	endtitle
+	description
+		Berwisata ke Malaysia dan mengunjungi Hello Kitty Theme Park yang terkenal untuk mendapatkan pengalaman berharga di tahun baru
+	enddescription
+	transport
+		KLM Royal Dutch Airlines
+	endtransport
+	hotel
+		Hotel Bintang 4
+	endhotel
+	day
+		1 JAKARTA – KUALA LUMPUR : travel KL 810 CGK - KUL 19.25 - 22.35 ; activity Memulai perjalanan ke ibukota Malaysia, Kuala Lumpur ; activity Menuju hotel untuk beristirahat
+		2 KUALA LUMPUR – GENTING : activity Mengunjungi menara kembar PETRONAS untuk berfoto-foto ; activity Melewati ISTANA RAJA, LAPANGAN MERDEKA, dan CHOCOLATE FACTORY ; activity Mengunjungi GENTING HIGHLAND RESORT
+		3 GENTING – SUNWAY LAGOON – JOHOR BAHRU : activity Mengunjungi SUNWAY LAGOON THEME PARK untuk berwisata air ; activity Mengunjungi HELLO KITTY TOWN
+		4 JOHOR BAHRU – KUALA LUMPUR : activity Mengunjungi salah satu taman bermain international pertama dan terbaru di Malaysia yaitu LEGOLAND THEME PARK ; activity Menuju HELLO KITTY TOWN ; activity Kembali menuju KUALA LUMPUR
+		5 KUALA LUMPUR – JAKARTA : travel KL 809 KUL - CGK 17.10 - 18.10 - Menuju Bandara untuk melanjutkan penerbangan kembali ke Jakarta
+	endday
+end
