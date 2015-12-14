@@ -1,0 +1,23 @@
+﻿itinerary
+	title
+		AK4GA - Korea Jeju+Jinhae Cherry Blossom 07H
+	endtitle
+	description
+		Pilihan paket ini dapat menjadi alternatif yang tepat bagi Anda karena kami akan menyiapkan segala keperluan yang Anda butuhkan untuk berwisata di Korea
+	enddescription
+	transport
+		Garuda Indonesia
+	endtransport
+	hotel
+		Hotel Bintang 5
+	endhotel
+	day
+		1 JAKARTA – INCHEON : travel GA 878 CGK - ICN 23.30 - 08.30 - Berkumpul di Bandara Internasional Soekarno-Hatta, Jakarta untuk memulai perjalanan menuju negara Ginseng, KOREA
+		2 INCHEON – GIMPO – JEJU : activity Mengunjungi GYEONGBOK PALACE – istana peninggalan dinasti Joseon, NATIONAL FOLKLORE MUSEUM, melewati THE BLUE HOUSE ; activity Menuju bandara domestik GIMPO untuk penerbangan ke JEJU yang dikenal masyarakat Korea sebagai “Honeymoon Island (Pulau Bulan Madu)” ; activity Kunjungan ke YONGDUAM DRAGON HEAD ROCK dan MYSTERIOUS ROAD
+		3 JEJU : activity Mengunjungi JEJU NATURAL HISTORY MUSEUM, SEOUNGEUP FOLK VILLAGE, SEONGSAN SUNRISE PEAK, TRICK EYE MUSEUM & ICE GALLERY, dan TEDDY BEAR MUSEUM ; activity Menyaksikan PERTUNJUKKAN SENI AKROBATIK dan TARI “NANTA SHOW”
+		4 JEJU – BUSAN – JINHAE – DAEGU : activity Menikmati pemandangan bunga cherry blossom di GYEONGHWA STATION CHERRY BLOSSOM dan JUNGWEON ROTARY ; activity Berbelanja di DONGSUNGRO FASHION STREET
+		5 DAEGU – EVERLAND – SEOUL : activity Mengunjungi EVERLAND THEME PARK ; activity Berbelanja di DONGDAEMUN MARKET yang menjual aneka fashion, sepatu, tas, souvenir, dll
+		6 SEOUL : activity Melihat keindahan BUNGA CHERRY BLOSSOM di NAMSAN PARK dan photo stop di N SEOUL TOWER ; activity Membuat KIMCHI dan mencoba pakaian tradisional Korea “HANBOK” ; activity Berbelanja di GINSENG SHOP, RED PINE SHOP, COSMETIC SHOP, DFS & berbagai fashion dan kosmetik ala Korea di MYEONGDONG STREET
+		7 SEOUL – INCHEON – JAKARTA : travel GA 879 ICN - CGK 10.35 - 15.45 - Penerbangan kembali ke Jakarta
+	endday
+end

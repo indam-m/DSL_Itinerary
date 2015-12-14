@@ -1,0 +1,26 @@
+﻿itinerary
+	title
+		MTAEK - Best of Turkey plus Bhosporus Cruise 10H
+	endtitle
+	description
+		Liburan akhir tahun mulai dari Natal dan Tahun Baru merupakan saat yang tepat untuk mencicipi suasana yang berbeda di Turki sebagai negara dengan musim dingin bersalju
+	enddescription
+	transport
+		Emirates Airlines
+	endtransport
+	hotel
+		Hotel Bintang 5
+	endhotel
+	day
+		1 JAKARTA – ISTANBUL : travel EK 369 CGK-DXB 07.45 – 13.10 - Berkumpul di BANDARA SOEKARNO-HATTA JAKARTA untuk memulai penerbangan ke negara TURKI yaitu kota ISTANBUL transit di DUBAI ; travel EK 121 DXB – IST 14.35 – 17.35 - Melanjutkan perjalanan ke ISTANBUL
+		2 ISTANBUL – BURSA : activity mengunjungi GRAND MOSQUE, GREEN MOSQUE & GREEN TOMB yang merupakan keindahan budaya dari kerajaan Ottoman & SILK MARKET
+		3 BURSA – KUSADASI : activity Menuju kota Selcuk untuk mengunjungi reruntuhan kota kuno Ephesus ; activity Melihat situs arkeologi seperti GREAT THEATRE, TEMPLE OF ARTEMIS BASILICA dan CELCUS LIBRARY dan VIRGIN MARY’S HOUSE
+		4 KUSADASI – PAMUKKALE : activity Mengunjungi kota kuno bersejarah HIERAPOLIS untuk melihat sumber air panas yang disebut COTTON CASTLE HIERAPOLIS
+		5 PAMUKKALE – KONYA – CAPPADOCIA : activity Mengunjungi MEVLANA MUSEUM dan Photo Stop di SULTANHANI CARAVANSARAI
+		6 CAPPADOCIA : activity Mengunjungi KOTA BAWAH TANAH KAYMAKLI, GOREME OPEN AIR MUSEUM, dan UCHISAR VILLAGE ; activity Mengikuti wisata tambahan HOT AIR BALOON atau TURKISH BATH (MANDI ALA TURKI) (dengan biaya sendiri) ; activity Melihat pertunjukan TARIAN TRADISIONAL TURKI BELLY DANCE
+		7 CAPPADOCIA – ANKARA – BOLU : activity Mengunjungi SALT LAKE ; activity Mengunjungi ATTATURK MAUSOLEUM
+		8 BOLU – ISTANBUL : activity Menikmati indahnya pemandangan di selat Bhosporus menggunakan BHOSPORUS CRUISE dilanjutkan dengan berbelanja di GRAND BAZAAR
+		9 ISTANBUL – DUBAI : activity Mengunjungi BLUE MOSQUE, HIPPODROME SQUARE, HAGIA SOPHIA MUSEUM ; activity Mengunjungi TOPKAPI PALACE istana terbesar & tertua peninggalan jaman kejayaan Sultan Ottoman ; travel EK 122 IST-DXB 19.05 – 01.20 - Penerbangan kembali menuju JAKARTA transit di DUBAI
+		10 DUBAI - JAKARTA : travel EK 356 DXB-CGK 04.35 – 15.45 - Penerbangan lanjutan menuju Jakarta
+	endday
+end

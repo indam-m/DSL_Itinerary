@@ -1,0 +1,23 @@
+﻿itinerary
+	title
+		ES2TK - Europe Wow Saver + Keukenhof 07H
+	endtitle
+	description
+		Jadikan liburan Anda di Eropa menjadi lebih spesial dengan menyaksikan festival setempat serta keindahan lokasi-lokasi highlights di Paris dan Amsterdam yang tak terlupakan
+	enddescription
+	transport
+		Turkish Airlines
+	endtransport
+	hotel
+		Hotel Bintang 5
+	endhotel
+	day
+		1 JAKARTA – ISTANBUL : travel TK 57 CGKIST 20.35 - 05.05 - Berkumpul di BANDARA SOEKARNO - HATTA, JAKARTA. Untuk memulai penerbangan ke ISTANBUL, TURKI
+		2 ISTANBUL – AMSTERDAM – VOLENDAM : travel TK 1951 ISTAMS 07.55-10.45 - Dengan penerbangan lanjutan menuju AMSTERDAM, BELANDA ; activity berwisata ke kota kecil yang dahulu merupakan desa nelayan yaitu VOLENDAM dan berfoto menggunakan pakaian tradisional Belanda (dengan biaya sendiri) ; activity Mengunjungi tempat pengasahan berlian COSTER DIAMOND atau GASSAN ; activity wisata CANAL CRUISE ; activity Bermalam di Amsterdam / Sekitarnya
+		3 AMSTERDAM – LISSE – AMSTERDAM : activity Menuju kota LISSE mengunjungi KEBUN TULIP KEUKENHOF ; activity melewati OLD TOWN AMSTERDAM yaitu DAMRAK dimana terdapat ROYAL PALACE, NATIONAL MONUMENT dan CENTRAL STATION
+		4 AMSTERDAM – BRUSSELS – PARIS : activity Menuju kota BRUSSELS di negara BELGIA ; activity “Walking Tour” ke OLD TOWN mengunjungi GRAND PLACE (GROTTE MARK), lambang kota BRUSSELS yaitu MANNEKEN PIS dan acara berbelanja coklat Belgia, souvenir, dll ; activity Menuju negara PERANCIS tepatnya kota PARIS
+		5 PARIS : activity Wisata kota PARIS ; activity berkeliling kota melewati GEREJA NOTRE DAME, LOUVRE, ARC DE TRIOMPHE, CHAMPS ELYSEES, PLACE DE LA CONCORDE, INVALIDES dan Photo Stop dengan latar belakang EIFFEL TOWER
+		6 PARIS – JAKARTA : activity Berbelanja di GALLERIES LAFAYETTE atau di CHAMP ELYSEES ataupun mengikuti Wisata Tambahan seperti Seine River Cruise (Bateaux-Mouches), dll ; travel TK 1828 CDGIST - 18.15-22.45 - Penerbangan kembali ke JAKARTA transit di DUBAI
+		7 INSTANBUL – JAKARTA : travel TK 56 ISTCGK 02.05-17.55 - Dengan penerbangan lanjutan menuju JAKARTA
+	endday
+end

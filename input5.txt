@@ -1,0 +1,21 @@
+﻿itinerary
+	title
+		CMSSQ - Beijing Moslem Saver 05H
+	endtitle
+	description
+		Anda dapat merencanakan liburan dengan merogoh kocek yang lebih minim pada periode low season namun tempat wisata yang dikunjungi tidak kalah lengkap dan menarik dengan paket Beijing tahun ini
+	enddescription
+	transport
+		Singapore Airlines
+	endtransport
+	hotel
+		Hotel Bintang 4
+	endhotel
+	day
+		1 JAKARTA – SINGAPORE – BEIJING : travel SA 394 CGK-BJ 07.45 – 13.10 - Memulai perjalanan menuju negara CHINA, BEIJING melalui SINGAPORE
+		2 BEIJING : activity Mengunjungi lapangan TIAN AN MEN, FORBIDDEN CITY ; activity Menuju ke NIUJIE MOSQUE dan berkesempatan untuk SHOLAT bersama ; activity Menyaksikan BEIJING ACROBATIC SHOW
+		3 BEIJING : activity Mengunjungi “ GREAT WALL “ yang termasuk salah satu dari 7 Keajaiban Dunia ; activity Photo stop di BIRD’S NEST STADIUM ; activity Makan malam istimewa PEKING DUCK
+		4 BEIJING : activity Mengunjungi SUMMER PALACE, Istana musim panas bagi Kaisar ; activity Berbelanja di XIUSHUI MARKET dan WANGFUJING
+		5 BEIJING – SINGAPORE – JAKARTA : travel SA 455 BJ-CGK 07.45 – 13.10 - Penerbangan kembali ke JAKARTA melalui SINGAPORE
+	endday
+end

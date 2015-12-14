@@ -22,7 +22,7 @@ def jumDay
 
 def i = 0
 
-new File("input.txt").eachLine { line ->
+new File("input5.txt").eachLine { line ->
   input[i] = line
   i++
 }
@@ -121,7 +121,7 @@ if (input[0]=="itinerary"&&input[i-1]=="end" && i>16){
                                 }
                                 output += """
                                             <tr>
-                                                <td><span class="label label-warning">
+                                                <td><span class="label label-default">
                                                 <i class="fa fa-plane fa-fw"></i>Travel</span></td>
                                                 <td>${action}</td>
                                             </tr>
